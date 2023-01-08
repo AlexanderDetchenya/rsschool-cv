@@ -1,0 +1,2 @@
+stroka1
+stroka2
