@@ -1,2 +1,3 @@
 stroka1
 stroka2
+stroka3
